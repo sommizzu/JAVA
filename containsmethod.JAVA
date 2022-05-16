@@ -1,0 +1,1 @@
+System.out.println(pitches.contains("142"));
