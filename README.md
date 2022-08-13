@@ -1,2 +1,2 @@
 # JAVA
-## java 뽀개기
+### jump to JAVA
